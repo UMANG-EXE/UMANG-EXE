@@ -15,7 +15,7 @@
 - 💡 &nbsp;I like to explore new technologies.
 - 🎓 &nbsp;I'm a student of Bachelors in Technology in Information Technology at Charusat University.
 - 🌱 &nbsp;I'm currently learning _DevOps_.
-- ✍️ &nbsp;All my resume and personal details are available at [MyProfile](https://umang-exe.github.io/My-Portflio/).
+- ✍️ &nbsp;All my resume and personal details are available at [MyProfile](https://umang-exe.github.io/My-Portfolio/).
 - ❤️ &nbsp;My favorite language: `JavaScript`.
 - ✉️ &nbsp;You can email me at umangjoshi144@gmail.com.
 
